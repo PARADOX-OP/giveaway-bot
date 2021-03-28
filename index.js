@@ -47,7 +47,7 @@ client.on("message", message => {
 
 if(message.content === "prefix") {
 
- message.channel.send("My prefix is g") 
+ message.channel.send("My prefix is {prefix}") 
 
 } 
 
