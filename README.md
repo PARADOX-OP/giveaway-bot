@@ -6,5 +6,9 @@ Change .env.example to .env**
 # Copyright 
 Copyright 2020 © All RIghts are Reserved | If you are using any part of code please give me credits for the same. Thanks
 
+# Configuration 
+**Paste token in env foler
+Just start the bot**
+
 # License
 **ngnix 2020 all rights reserved**
