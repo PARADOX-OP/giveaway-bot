@@ -1,7 +1,4 @@
 
-https://cdn.discordapp.com/attachments/821357314505572391/830849698956574760/20210411_222939.jpg
-
-
 
 **This bot was created by MUKESH**
 
