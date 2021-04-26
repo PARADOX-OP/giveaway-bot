@@ -1,10 +1,22 @@
 
 
+
 **This bot was created by MUKESH**
 
 <p align="center">
   <img width="497" height="768" alt="Shoukaku" src="https://raw.githubusercontent.com/Deivu/Shoukaku/master/assets/cover.png"></img>
 </p>
+
+# 🎉 Giveaway Bot
+
+A simple giveaway bot that saves after restarting the bot
+
+Usage | Example
+----- | -------
+`g!start <channeltag> <time> <winners> <prize>` | `g!start #giveaway 10m 1 Discord Nitro`
+`g!end <message id>` | `g!end 835914975959842856`
+`g!reroll <message id>` `g!reroll 835914975959842856`
+
 
 ### Features
 
