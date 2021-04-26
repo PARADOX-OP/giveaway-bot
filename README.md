@@ -13,7 +13,7 @@ Change .env.example to .env**
 Copyright 2020 © All RIghts are Reserved | If you are using any part of code please give me credits for the same. Thanks
 
 # Configuration 
-**Paste token in env folder
+**First run ``npm i`` in terminal and paste token in env folder
 Just start the bot**
 
 # License
