@@ -27,7 +27,7 @@ module.exports.run = async (client, message, args) => {
     .addField("❯ UTILITY", "`ping`, `emoji`, `invite`", true)
     .addField(
       " ❯ INFORMATION ",
-      "`stats`, `avatar`, `prefix`, `welcome`, `userinfo`, `membercount`",
+      "`stats`, `avatar`, `prefix`, `userinfo`, `membercount`",
       true
     )
     .addField(
