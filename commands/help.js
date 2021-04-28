@@ -12,9 +12,6 @@ module.exports.run = async (client, message, args) => {
       "https://cdn.glitch.com/8cb34785-d377-4ef6-818c-137f48581a4e%2Fgif%20gif.gif?v=1614936176218"
     )
     .setColor("RED")
-    .setThumbnail(
-      "https://cdn.discordapp.com/avatars/789884331245436928/eaadacd09221a70f5bc25cb41d3e04d1.webp?size=2048"
-    )
     .setTitle("_Command List_")
     .setDescription(
       "Below are Commands you can do with Bot,  more commands will be added soon.")
@@ -36,9 +33,7 @@ module.exports.run = async (client, message, args) => {
     )
     .addField(" ❯ EXTERNAL", "`hi`, `bye`, `alok`, `ff`")
     .addField("❯ MODERATION", "`purge`")
-    .setImage(
-      "https://cdn.discordapp.com/attachments/821363112309161984/824590026033070110/standard_14.gif"
-    )
+   
     .setTimestamp()
     .setFooter("© Kine");
   message.channel.send("**Check DMs**");
